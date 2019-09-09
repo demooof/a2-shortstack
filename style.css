@@ -1,0 +1,40 @@
+/* We added some default styles. Feel free to change them */
+body
+{
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+body > article
+{
+  text-align: center;
+}
+
+h1
+{
+  margin: 10px 0;
+}
+
+
+form{
+  float: left;
+
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 3px solid #555;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+
+
+}
+input{
+
+  border: 3px solid #ccc;
+}
+
+ul{
+  float:left;
+  font-size: 30px;
+}

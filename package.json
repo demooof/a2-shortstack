@@ -1,12 +1,13 @@
 {
-  "name": "",
-  "version": "",
-  "description": "",
+  "name": "cs4241-a3-YOURNAME",
+  "version": "0.0.1",
+  "description": "WPI CS 4241 Assignment 3",
   "author": "",
+  "private": true,
   "scripts": {
-    "start": "node server.improved.js"
+    "start": "node server.js"
   },
   "dependencies": {
-    "mime": "^2.4.4"
+    "fuzzy": "^0.1.3"
   }
 }
