@@ -1,7 +1,9 @@
 Assignment 2
 
 Fan mo
-
+I had some issues with the glitch website that the server is not respondoing. I upload this porject to herokuapp
+Here is the link
+https://a3-demooof.herokuapp.com
 This project shows ...
 
 ## Technical Achievements
